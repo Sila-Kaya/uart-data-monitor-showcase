@@ -20,7 +20,8 @@ Seri port üzerinden gelen verilerin paket bazında izlenmesi, sayısal alanlar�
 ### 2. Grafik ekranı
 Gerçek zamanlı veri akışının grafikler üzerinden izlenmesi ve değişimlerin görselleştirilmesi.
 
-![Grafik ekranı](docs/screenshots/02-grafik-ekrani.jpg)
+
+![Grafik ekranı](docs/screenshots/02-grafik-izleme.jpg)
 
 ### 3. Çoklu grafik paneli
 Birden fazla veri alanının ayrı panellerde eş zamanlı olarak takip edilmesi.
