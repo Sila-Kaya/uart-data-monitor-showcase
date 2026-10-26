@@ -10,6 +10,23 @@
 
 Seri haberleşme üzerinden gelen verileri yalnızca ham metin olarak görüntülemek yerine, anlamlandırılabilen ve analiz edilebilen bir yapıda sunmak; izleme, grafikleme ve kayıt işlemlerini tek bir Windows masaüstü uygulamasında toplamak.
 
+## Uygulama Ekran Görüntüleri
+
+### 1. Canlı UART monitörü
+Seri port üzerinden gelen verilerin paket bazında izlenmesi, sayısal alanların ve bit durumlarının görüntülenmesi.
+
+![Canlı UART monitörü](docs/screenshots/01-canli-uart-monitoru.jpg)
+
+### 2. Grafik ekranı
+Gerçek zamanlı veri akışının grafikler üzerinden izlenmesi ve değişimlerin görselleştirilmesi.
+
+![Grafik ekranı](docs/screenshots/02-grafik-ekrani.jpg)
+
+### 3. Çoklu grafik paneli
+Birden fazla veri alanının ayrı panellerde eş zamanlı olarak takip edilmesi.
+
+![Çoklu grafik paneli](docs/screenshots/03-coklu-grafik-paneli.jpg)
+
 ## Temel Özellikler
 
 - **UART bağlantı yönetimi:** Kullanılabilir COM portlarını listeleme; baud rate, parity, veri bitleri, stop bitleri ve akış kontrolü parametrelerini yapılandırma.
